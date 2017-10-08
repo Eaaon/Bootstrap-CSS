@@ -10,6 +10,11 @@
 | :--- | :----: | ----: |
 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4|
 
+| left | center | right |
+| :--- | :----: | ----: |
+| aaaa | bbbbbb | ccccc |
+| a    | b      | c     |
+
 ```
 <div class="row">
   <div class="col-xs-12 col-sm-6 col-md-8">.col-xs-12 .col-sm-6 .col-md-8</div>
