@@ -6,7 +6,7 @@
 实例：手机、平板、桌面
 在上面案例的基础上，通过使用针对平板设备的 .col-sm-* 类，我们来创建更加动态和强大的布局吧。
 
-| .col-xs-12 .col-sm-6 .col-md-8 | .col-xs-6 .col-md-4 |
+| .col-xs-12 .col-sm-6 .col-md-8 |  | .col-xs-6 .col-md-4 |
 | :--- | :----: | ----: |
 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4|
 
