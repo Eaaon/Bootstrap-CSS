@@ -13,7 +13,7 @@
 | left | center | right |
 | :--- | :----: | ----: |
 | aaaa | bbbbbb | ccccc |
-| a    | b      | c     |
+
 
 ```
 <div class="row">
