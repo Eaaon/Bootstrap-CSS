@@ -10,10 +10,6 @@
 | :--- | :----: | ----: |
 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4 | .col-xs-6 .col-sm-4|
 
-| left | center | right |
-| :--- | :----: | ----: |
-| aaaa | bbbbbb | ccccc |
-
 
 ```
 <div class="row">
